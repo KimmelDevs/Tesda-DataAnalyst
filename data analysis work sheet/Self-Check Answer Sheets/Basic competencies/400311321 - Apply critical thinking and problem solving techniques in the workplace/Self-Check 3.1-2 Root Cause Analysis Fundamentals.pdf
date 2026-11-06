@@ -1,0 +1,110 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.35 841.95] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3815 >>
+stream
+0.6 w
+0 G
+0 g
+18 47.05 557.75 776.9 re S
+18 803.4 m 575.75 803.4 l S
+18 769.6 m 575.75 769.6 l S
+18 749.05 m 575.75 749.05 l S
+18 145.55 m 575.75 145.55 l S
+18 97.5 m 575.75 97.5 l S
+318.95 823.95 m 318.95 803.4 l S
+318.95 769.6 m 318.95 749.05 l S
+318.95 145.55 m 318.95 47.05 l S
+434.85 145.55 m 434.85 47.05 l S
+BT /F1 11 Tf 23.4 809.95 Td (QUALIFICATION) Tj ET
+BT /F2 11 Tf 324.35 809.83 Td (Data Analytics \(CS-ICTDAT323\)) Tj ET
+1 w
+33.94 789.14 10.15 10.6 re S
+1.4 w
+35.94 797.74 m 42.09 791.14 l S
+35.94 791.14 m 42.09 797.74 l S
+0.6 w
+BT /F1 11 Tf 49.65 790.74 Td (BASIC) Tj ET
+1 w
+122.25 789.14 10.15 10.6 re S
+0.6 w
+BT /F1 11 Tf 145.35 790.74 Td (COMMON) Tj ET
+1 w
+218 789.14 10.15 10.6 re S
+0.6 w
+BT /F1 11 Tf 233.15 790.74 Td (CORE COMPETENCIES) Tj ET
+BT /F1 11 Tf 23.4 755.6 Td (UNIT OF COMPETENCY NO. ) Tj ET
+BT /F2 11 Tf 173.75 755.48 Td (400311321) Tj ET
+BT /F2 8 Tf 324.35 761.53 Td (Apply critical thinking and problem solving techniques in the) Tj ET
+BT /F2 8 Tf 324.35 752.53 Td (workplace) Tj ET
+BT /F1 11 Tf 23.4 131.55 Td (Trainee's Name) Tj ET
+BT /F1 11 Tf 324.35 131.55 Td (Signature) Tj ET
+BT /F1 11 Tf 440.25 131.55 Td (Date: ) Tj ET
+BT /F2 11 Tf 23.4 112.7 Td (Kimmel Aldrich Tan Delector) Tj ET
+BT /F2 10 Tf 469.6 131.55 Td (October 24, 2026) Tj ET
+BT /F1 11 Tf 23.4 83.5 Td (Trainer's Name) Tj ET
+BT /F1 11 Tf 324.35 83.5 Td (Signature) Tj ET
+BT /F1 11 Tf 440.25 83.5 Td (Date: ) Tj ET
+BT /F2 11 Tf 23.4 64.65 Td (christian guades igay) Tj ET
+BT /F2 12 Tf 28 725.25 Td (Self-Check 3.1-2: Root Cause Analysis Fundamentals) Tj ET
+0.35 g
+BT /F1 9 Tf 28 711.1 Td (Self-check \267 Module version 3 \267 Completed \267 Handed in 1 time) Tj ET
+0 g
+BT /F2 10.5 Tf 28 685.68 Td (Self-check, attempt 1: 10 of 10 correct) Tj ET
+BT /F1 10 Tf 28 666.6 Td (1. Root Cause Analysis is the process of identifying the source of a problem and treating it at the root level.) Tj ET
+BT /F1 10 Tf 44 653.6 Td (Answer: True \227 Correct) Tj ET
+BT /F1 10 Tf 28 634.6 Td (2. Physical causes in Root Cause Analysis refer to human error caused by lack of skills and knowledge.) Tj ET
+BT /F1 10 Tf 44 621.6 Td (Answer: False \227 Correct) Tj ET
+BT /F1 10 Tf 28 602.6 Td (3. Implementing Root Cause Analysis solutions helps prevent the same or similar incidents from recurring.) Tj ET
+BT /F1 10 Tf 44 589.6 Td (Answer: True \227 Correct) Tj ET
+BT /F1 10 Tf 28 570.6 Td (4. Organizational causes involve hardware failure and equipment malfunction.) Tj ET
+BT /F1 10 Tf 44 557.6 Td (Answer: False \227 Correct) Tj ET
+BT /F1 10 Tf 28 538.6 Td (5. Safety-based RCA examines failures of safety observance and accident analysis.) Tj ET
+BT /F1 10 Tf 44 525.6 Td (Answer: True \227 Correct) Tj ET
+BT /F1 10 Tf 28 506.6 Td (6. Process-based RCA is used only in engineering and maintenance applications.) Tj ET
+BT /F1 10 Tf 44 493.6 Td (Answer: False \227 Correct) Tj ET
+BT /F1 10 Tf 28 474.6 Td (7. Root Cause Analysis helps organizations earn public trust and attract high performing employees.) Tj ET
+BT /F1 10 Tf 44 461.6 Td (Answer: True \227 Correct) Tj ET
+BT /F1 10 Tf 28 442.6 Td (8. Human causes are problems with physical components of a system.) Tj ET
+BT /F1 10 Tf 44 429.6 Td (Answer: False \227 Correct) Tj ET
+BT /F1 10 Tf 28 410.6 Td (9. Systems-based RCA combines multiple RCA methods with change management and risk management.) Tj ET
+BT /F1 10 Tf 44 397.6 Td (Answer: True \227 Correct) Tj ET
+BT /F1 10 Tf 28 378.6 Td (10. Production-based RCA investigates root causes of defects in business processes only.) Tj ET
+BT /F1 10 Tf 44 365.6 Td (Answer: False \227 Correct) Tj ET
+0.35 g
+BT /F1 9 Tf 28 337.75 Td (This sheet is a record of the work done on one activity. It is not a competency decision: competence in a unit is decided on assessed) Tj ET
+0 g
+0.35 g
+BT /F1 9 Tf 28 326.05 Td (evidence.) Tj ET
+0 g
+
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000212 00000 n 
+0000000314 00000 n 
+0000000456 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4323
+%%EOF
